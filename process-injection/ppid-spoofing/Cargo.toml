@@ -2,3 +2,16 @@
 name = "ppid-spoofing"
 version = "0.1.0"
 edition = "2021"
+
+
+[dependencies]
+winapi = { version = "0.3", features = [
+    "processthreadsapi",
+    "winbase",
+    "handleapi",
+    "errhandlingapi",
+    "heapapi",
+    "sysinfoapi",
+    "winnt",
+    "processenv"
+] }
