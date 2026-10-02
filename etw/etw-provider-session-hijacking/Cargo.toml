@@ -1,0 +1,4 @@
+[package]
+name = "etw-provider-session-hijacking"
+version = "0.1.0"
+edition = "2021"

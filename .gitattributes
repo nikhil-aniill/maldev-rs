@@ -1,0 +1,9 @@
+# Normalize all text files to LF in the repository
+* text=auto eol=lf
+
+# Explicitly mark binary types so Git never mangles them
+*.exe binary
+*.bin binary
+*.pdb binary
+*.lib binary
+*.dll binary

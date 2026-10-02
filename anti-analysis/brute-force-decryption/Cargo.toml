@@ -1,0 +1,4 @@
+[package]
+name = "brute-force-decryption"
+version = "0.1.0"
+edition = "2021"

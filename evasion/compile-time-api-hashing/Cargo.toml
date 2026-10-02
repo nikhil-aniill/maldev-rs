@@ -1,0 +1,4 @@
+[package]
+name = "compile-time-api-hashing"
+version = "0.1.0"
+edition = "2021"
