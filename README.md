@@ -1,5 +1,7 @@
 # maldev-rs
 
+![Progress](https://img.shields.io/badge/MDA_Progress-46%2F180_modules-yellow?style=flat-square)
+
 A research repository of Windows offensive security and malware development techniques implemented in Rust.
 
 > **Disclaimer:** This repository is intended for authorized security research, red team operations, CTF competitions, and educational purposes only. All techniques documented here are drawn from public security research. Do not use these implementations against systems you do not own or have explicit written permission to test.
