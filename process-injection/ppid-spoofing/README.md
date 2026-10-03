@@ -6,6 +6,7 @@ The Maldev Objective of using a second thread attribute was selected to be mitig
 
 It was initiated with value - 131079usize.
 
+![objective](objective.PNG)
 ## Detection Notes
 
 The PPID spoofing against explorer.exe wasn't flagged. Maybe this was due to the fact that there was no payload executed.
