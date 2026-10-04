@@ -1,6 +1,6 @@
 # maldev-rs
 
-![Progress](https://img.shields.io/badge/MDA_Progress-46%2F180_modules-yellow?style=flat-square)
+![Progress](https://img.shields.io/badge/MDA_Progress-48%2F180_modules-yellow?style=flat-square)
 
 A research repository of Windows offensive security and malware development techniques implemented in Rust.
 
@@ -29,7 +29,7 @@ each folder has the code + notes on what MDE detected vs missed.
 
 | area | modules | status |
 |------|---------|--------|
-| PE header parsing & string hashing | 47–48 | ✅ done 🔄 in progress |
+| PE header parsing & string hashing | 47–48 | ✅ done  |
 | IAT hiding & API hashing | 49–56, 79 | 🔄 in progress |
 | API hooking | 57–61 | ⬜ upcoming |
 | Syscalls (Hell's Gate, HellsHall, indirect) | 62–68, 87–88 | ⬜ upcoming |
