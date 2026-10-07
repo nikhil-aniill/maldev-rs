@@ -2,3 +2,6 @@
 name = "api-hashing"
 version = "0.1.0"
 edition = "2021"
+[dependencies]
+winapi = { version = "0.3", features = ["winuser", "libloaderapi", "errhandlingapi", "minwindef", "ntdef", "winnt"] }
+ntapi = "0.4"
